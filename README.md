@@ -5,7 +5,7 @@
 <h3 align="center">A passionate Data enthusiast</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smariful1&label=Profile%20views&color=0e75b6&style=flat" alt="smariful1" /> </p>
 
-<img align="center" alt="coding" width="300" src="https://media.licdn.com/dms/image/v2/D4E22AQHISvHEHFjOsQ/feedshare-shrink_800/feedshare-shrink_800/0/1701631150305?e=1726704000&v=beta&t=y6PsN87wbjhIZD5DJMOWDmPL9oo5Ce80aG69Z9JhMco">
+<img align="right" alt="coding" width="300" src="https://media.licdn.com/dms/image/v2/D4E22AQHISvHEHFjOsQ/feedshare-shrink_800/feedshare-shrink_800/0/1701631150305?e=1726704000&v=beta&t=y6PsN87wbjhIZD5DJMOWDmPL9oo5Ce80aG69Z9JhMco">
 
 - 🔭 I’m currently working on [BankNote Anomaly Detection](https://github.com/SMARIFUL1/seminar)
 
