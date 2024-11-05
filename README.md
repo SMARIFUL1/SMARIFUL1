@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Ariful Islam</h1>
 <h3 align="center">A passionate Data enthusiast</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=smariful1&label=Profile%20views&color=0e75b6&style=flat" alt="smariful1" /> </p>
+<p align="left"> <img src="https://www.google.com/imgres?q=coding&imgurl=https%3A%2F%2Fsuperblog.supercdn.cloud%2Fsite_cuid_cm26y24gn00rpkt5xcilzmy3f%2Fimages%2F1fortpiktdzcreeevwga-1729031508933-compressed.png&imgrefurl=https%3A%2F%2Fcodinginthewild.com%2F&docid=0GbXMGrI_1iTxM&tbnid=L6kK4OTFODb4uM&vet=12ahUKEwimvaaClMaJAxUQhP0HHb_JInk4FBAzegQIKhAA..i&w=2000&h=500&hcb=2&ved=2ahUKEwimvaaClMaJAxUQhP0HHb_JInk4FBAzegQIKhAA" alt="smariful1" /> </p>
 
 <img align="right" alt="coding" width="300" src="https://media.licdn.com/dms/image/v2/D4E22AQHISvHEHFjOsQ/feedshare-shrink_800/feedshare-shrink_800/0/1701631150305?e=1726704000&v=beta&t=y6PsN87wbjhIZD5DJMOWDmPL9oo5Ce80aG69Z9JhMco">
 
