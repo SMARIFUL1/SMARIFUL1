@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Ariful Islam</h1>
 <h3 align="center">A passionate Data enthusiast</h3>
-<p align="left"> <img src="https://www.google.com/imgres?q=coding&imgurl=https%3A%2F%2Fsuperblog.supercdn.cloud%2Fsite_cuid_cm26y24gn00rpkt5xcilzmy3f%2Fimages%2F1fortpiktdzcreeevwga-1729031508933-compressed.png&imgrefurl=https%3A%2F%2Fcodinginthewild.com%2F&docid=0GbXMGrI_1iTxM&tbnid=L6kK4OTFODb4uM&vet=12ahUKEwimvaaClMaJAxUQhP0HHb_JInk4FBAzegQIKhAA..i&w=2000&h=500&hcb=2&ved=2ahUKEwimvaaClMaJAxUQhP0HHb_JInk4FBAzegQIKhAA" alt="smariful1" /> </p>
+<p align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiJTpCdZFaickVetZ6QUXC1X7kGstGjqlhOg&s" alt="smariful1" /> </p>
 
 <img align="right" alt="coding" width="300" src="https://media.licdn.com/dms/image/v2/D4E22AQHISvHEHFjOsQ/feedshare-shrink_800/feedshare-shrink_800/0/1701631150305?e=1726704000&v=beta&t=y6PsN87wbjhIZD5DJMOWDmPL9oo5Ce80aG69Z9JhMco">
 
@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/s-m-ariful-islam-6706bb153/](https://www.linkedin.com/in/s-m-ariful-islam-6706bb153/)
 
-- ⚡ Fun fact **Try to be angry**
+- ⚡ Fun fact **funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
