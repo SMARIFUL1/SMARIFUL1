@@ -3,9 +3,9 @@
 
 <h1 align="center">Hi 👋, I'm Ariful Islam</h1>
 <h3 align="center">A passionate Data enthusiast</h3>
-<p align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiJTpCdZFaickVetZ6QUXC1X7kGstGjqlhOg&s" alt="smariful1" /> </p>
+<h4 align="center">Learner, Listener,.....</h4>
 
-<img align="right" alt="coding" width="300" src="https://media.licdn.com/dms/image/v2/D4E22AQHISvHEHFjOsQ/feedshare-shrink_800/feedshare-shrink_800/0/1701631150305?e=1726704000&v=beta&t=y6PsN87wbjhIZD5DJMOWDmPL9oo5Ce80aG69Z9JhMco">
+<img align="right" alt="coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiJTpCdZFaickVetZ6QUXC1X7kGstGjqlhOg&s">
 
 - 🔭 I’m currently working on [BankNote Anomaly Detection](https://github.com/SMARIFUL1/seminar)
 
