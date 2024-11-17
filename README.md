@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/s-m-ariful-islam-6706bb153/](https://www.linkedin.com/in/s-m-ariful-islam-6706bb153/)
 
-- ⚡ Fun fact **funny**
+- ⚡ Fun fact **still studying...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
