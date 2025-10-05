@@ -9,9 +9,7 @@
 
 - 🔭 I’m currently working on [BankNote Anomaly Detection](https://github.com/SMARIFUL1/seminar)
 
-- 🌱 I’m currently learning **Adaptability**
-
-- 👯 I’m looking to collaborate on **Anything**
+- 👯 I’m looking to collaborate on **Anything** related to Math and Data
 
 - 🤝 I’m studying on [Applied Mathematics for Network & Data Science](M.Sc.)
 
